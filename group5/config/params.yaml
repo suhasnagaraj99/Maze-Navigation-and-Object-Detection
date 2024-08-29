@@ -1,0 +1,7 @@
+turtleps: # Name of the node
+  ros__parameters:
+    aruco_marker_0: 'right_90'
+    aruco_marker_1: 'left_90'
+    aruco_marker_2: 'end'
+    use_sim_time: True
+ 
