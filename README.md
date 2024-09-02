@@ -59,7 +59,6 @@ This repository contains the submission for ENPM809Y RWA 3  - A ROS package to m
    ```
    
 3. **Launch the file `tbot_pub.launch.py` to start maze navigation**:
-   - Run the below line to use yolo model to detect stop sign:
    ```bash
    ros2 launch group5 tbot_pub.launch.py
    ```
